@@ -4,3 +4,4 @@ Test data and details:
 
 https://www.mathworks.com/matlabcentral/fileexchange/34407-reconstructing-dosimetric-images-using-a-deconvoluted-physical-model?s_tid=FX_rc1_behav
 
+![alt text](https://github.com/pmb59/dosymetric-image-reconstruction/blob/main/DP16-1.jpg?raw=true)
